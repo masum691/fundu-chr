@@ -1,0 +1,12 @@
+.pray-container{
+    padding-bottom: 66px;
+}
+.icon-button{
+    position: relative;
+    top: -26px;
+}
+.icon-button button{
+    border: 2px solid rgb(216, 216, 216);
+    padding: 12px 14px;
+    border-radius: 40px;
+}
