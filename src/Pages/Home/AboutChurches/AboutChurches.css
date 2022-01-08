@@ -1,0 +1,25 @@
+.about-churches{
+    margin-top: 44px;
+}
+.char-two{
+    position: relative;
+}
+.second-chr-img{
+    top: 21px;
+    left: 22px;
+    /* right: -22px; */
+    /* top: -475px; */
+    position: absolute;
+    width: 90%;
+}
+.get-involed, .get-dir{
+    text-decoration: none;
+    font-weight: 600;
+}
+.get-involed{
+    color: red;
+    margin-right: 12px;
+}
+.get-dir{
+    color: black;
+}
