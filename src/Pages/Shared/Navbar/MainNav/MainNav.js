@@ -1,12 +1,14 @@
 import React from 'react';
 import './MainNav.css'
+import logo from '../../../../Images/hmlogo.png'
 
 const MainNav = () => {
     return (
         <div className='width-container'>
             <nav class="navbar navbar-expand-lg navbar-light main-nav">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">Navbar</a>
+                    <img className='img-fluid me-2' src={logo} alt="" />
+                    <a class="navbar-brand" href="#">Fundu</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -31,7 +33,7 @@ const MainNav = () => {
                                 <a class="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                         </ul>
-                        <button>Donate Now</button>
+                        <button className='donate-btn'>Donate Now</button>
                     </div>
                 </div>
             </nav>

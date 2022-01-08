@@ -1,6 +1,25 @@
-.banner-container{
+/* .banner-container{
     background-color: rgb(235, 235, 235);
-}
+    height: 800px;
+} */
 .man-img{
     width: 90%;
+}
+.get-started-btn{
+    border: 0;
+    background-color: purple;
+    color: white;
+    padding: 9px 22px;
+    border-radius: 40px;
+}
+.causes-btn{
+    border: 0;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid purple;
+    padding: 7px 32px;
+    border-radius: 40px;
+}
+.banner-container h1{
+    font-size: 57px;
+    margin-bottom: 18px;
 }
