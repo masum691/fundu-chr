@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../Shared/Footer/Footer';
 import AboutChurches from '../AboutChurches/AboutChurches';
 import Banner from '../Banner/Banner';
 import ConnectUs from '../ConnectUs/ConnectUs';
@@ -21,7 +22,7 @@ const Home = () => {
             <Counter></Counter>
             <Quotes></Quotes>
             <ConnectUs></ConnectUs>
-            
+            <Footer></Footer>
         </div>
     );
 };

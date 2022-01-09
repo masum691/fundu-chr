@@ -7,9 +7,6 @@ const PraySection = () => {
     return (
         <div className='pray-container'>
             <div className='width-container'>
-                {/* <div style={{ backgroundImage: `url(${event})` }}>
-
-                </div> */}
                 <div>
                     <div className='upcoming-events mb-5'>
                         <h5 className='text-center'>SERMONS</h5>
