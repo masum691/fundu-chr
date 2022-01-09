@@ -1,0 +1,15 @@
+.service-container{
+    padding: 66px 0;
+}
+.service-container .icon-img{
+    width: 55px;
+    margin-right: 12px;
+}
+.service-container .service-card p{
+    margin-bottom: 6px;
+}
+.service-card a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}

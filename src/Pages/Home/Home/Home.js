@@ -4,6 +4,7 @@ import Banner from '../Banner/Banner';
 import ContactForm from '../ContactForm/ContactForm';
 import GetInvoled from '../GetInvoled/GetInvoled';
 import PraySection from '../PraySection/PraySection';
+import Services from '../Services/Services';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <GetInvoled></GetInvoled>
             <PraySection></PraySection>
             <ContactForm></ContactForm>
+            <Services></Services>
         </div>
     );
 };
