@@ -1,0 +1,35 @@
+.freebees-container{
+    padding: 54px 0;
+}
+.free-bees{
+    width: 40%;
+    margin: 0 auto;
+}
+.quote-logo{
+    position: absolute;
+    margin: 0 auto;
+}
+
+.freebees-logo{
+    top: 33px;
+    position: relative;
+}
+.quote-img{
+    width: 50%;
+}
+.free-bees p{
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 32px;
+}
+.quote-next .p-man-img{
+    width: 64px;
+    border-radius: 40px;
+    padding: 4px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px lightblue;
+    opacity: 0px;
+}
+.circle-img{
+    width: 73px;
+}

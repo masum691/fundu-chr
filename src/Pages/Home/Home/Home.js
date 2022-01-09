@@ -3,6 +3,7 @@ import AboutChurches from '../AboutChurches/AboutChurches';
 import Banner from '../Banner/Banner';
 import ContactForm from '../ContactForm/ContactForm';
 import Counter from '../Counter/Counter';
+import FreeBees from '../FreeBees/FreeBees';
 import GetInvoled from '../GetInvoled/GetInvoled';
 import PraySection from '../PraySection/PraySection';
 import Services from '../Services/Services';
@@ -17,6 +18,7 @@ const Home = () => {
             <ContactForm></ContactForm>
             <Services></Services>
             <Counter></Counter>
+            <FreeBees></FreeBees>
         </div>
     );
 };
