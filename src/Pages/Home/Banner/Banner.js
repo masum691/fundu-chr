@@ -17,7 +17,7 @@ const Banner = () => {
                         <h1>United Churches People Prayers</h1>
                         <div>
                             <button className='get-started-btn me-2'>GET STARTED</button>
-                            <button className='causes-btn'>CAUSES</button>
+                            <button className='causes-btn '>CAUSES</button>
                         </div>
                     </div>
                     <div className='col-sm-12 col-lg-6'>

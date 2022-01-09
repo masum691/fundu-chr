@@ -8,7 +8,7 @@ const ContactForm = () => {
             </div>
             <div className='width-container'>
                 <div className="text-center">
-                    <h6>JOIN WITH US</h6>
+                    <h6 className='join-with-us'>JOIN WITH US</h6>
                     <h1 className='mb-5'>Get Involve With Us <br /> & Made A Beautiful Globe</h1>
                 </div>
                 <div className='form-container'>

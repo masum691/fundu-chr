@@ -18,9 +18,16 @@
     font-weight: 600;
 }
 .get-involed{
-    color: red;
+    color: #EC6E39;
     margin-right: 12px;
+}
+.get-involed:hover, .get-dir:hover{
+    color: #ec642a;
 }
 .get-dir{
     color: black;
+}
+.about-churches p, .get-dir{
+    font-weight: 600;
+    color: rgb(99, 99, 99);
 }

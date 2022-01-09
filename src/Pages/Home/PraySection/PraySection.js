@@ -25,7 +25,7 @@ const PraySection = () => {
                                     <i class="fas fa-file-pdf me-4"></i>
                                 </div></button>
                             </div>
-                            <div class="card-body">
+                            <div class="card-body i-card">
                                 <h5 class="card-title">below as a natural lead-in to additional content.</h5>
                                 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
                                 <hr />
@@ -46,7 +46,7 @@ const PraySection = () => {
                                     <i class="fas fa-file-pdf me-4"></i>
                                 </div></button>
                             </div>
-                            <div class="card-body">
+                            <div class="card-body i-card">
                                 <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
                                 <hr />
@@ -66,7 +66,7 @@ const PraySection = () => {
                                     <i class="fas fa-file-pdf me-4"></i>
                                 </div></button>
                             </div>
-                            <div class="card-body">
+                            <div class="card-body i-card">
                                 <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
                                 <hr />

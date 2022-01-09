@@ -9,7 +9,7 @@
 .form-container input, .sel-relegion{
     width: 100%;
     padding: 12px 33px;
-    border: 2px solid lightblue;
+    border: 1px solid rgb(122, 122, 122);
     background-color: rgba(255, 255, 255, 0);
     border-radius: 2px;
     color: #FFFFFF;
@@ -42,7 +42,7 @@
     letter-spacing: 2.4px;
 }
 .form-container span{
-    color: red;
+    color: #EC6E39;
 }
 .coun-select option, .stat-select option{
     color: black;
@@ -62,11 +62,15 @@
 }
 .contact-form button{
     border: 0;
-    background-color: red;
+    background-color: #EC6E39;
     padding: 12px 42px;
     border-radius: 40px;
     margin-top: 23px;
     font-weight: bold;
     color: white;
+    letter-spacing: 2px;
+}
+.join-with-us{
+    color: #EC6E39;
     letter-spacing: 2px;
 }

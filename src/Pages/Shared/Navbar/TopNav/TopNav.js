@@ -1,10 +1,11 @@
 import React from 'react';
+import './TopNav.css'
 
 const TopNav = () => {
     return (
         <div className='width-container'>
             <div className='mb-3'>
-            <div className='d-md-flex d-lg-flex justify-content-between'>
+            <div className='d-md-flex d-lg-flex justify-content-between top-nav'>
                 <div>
                     <i class="fab fa-facebook-f me-3"></i>
                     <i class="fab fa-twitter me-3"></i>

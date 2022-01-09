@@ -11,3 +11,12 @@
     padding: 4px;
     box-shadow: 10px 10px 30px rgb(209, 210, 211);
 }
+.quotes-container h6{
+    color: #EC6E39;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+.quotes p{
+    color: rgb(95, 95, 95);
+    font-weight: 500;
+}

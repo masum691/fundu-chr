@@ -5,5 +5,12 @@
     padding-bottom: 55px;
 }
 .arrow-ico{
-    color: red;
+    color: #EC6E39;
+    font-size: 12px;
+}
+.connect-container small{
+    color: #EC6E39;
+}
+.connect-container p{
+    color: rgb(109, 109, 109);
 }

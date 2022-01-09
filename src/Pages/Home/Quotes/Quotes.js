@@ -10,13 +10,13 @@ const Quotes = () => {
         <div className='quotes-container'>
             <div className="quotes text-center">
                 <img className='img-fluid mt-5' src={secondLogo} alt="" />
-                <p className='fw-bold mt-4'>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi numquam, tempora quae veritatis qui consequatur temporibus ea, vitae adipisci ducimus odit omnis? consequatur temporibus ea, vitae adipisci ducimus odit omnis temporibus ea, vitae adipisci ducimus odit omnis"</p>
+                <p className='mt-4'>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi numquam, tempora quae veritatis qui consequatur temporibus ea, vitae adipisci ducimus odit omnis? consequatur temporibus ea, vitae adipisci ducimus odit omnis temporibus ea, vitae adipisci ducimus odit omnis"</p>
                 <div>
                     <img className='circle mt-2' src={circle} alt="" />
                     <img className='pman' src={pman} alt="" />
                     <img className='circle mt-2' src={circle} alt="" />
                 </div>
-                <h4>Rosanil D. Pong</h4>
+                <h5>Rosanil D. Pong</h5>
                 <h6>FOUNDER, UIHUB</h6>
             </div>
         </div>

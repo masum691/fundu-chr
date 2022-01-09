@@ -12,7 +12,7 @@ const Services = () => {
         <div className='service-container'>
             <div className='width-container'>
                 <div className='text-center'>
-                    <h6>
+                    <h6 className='features'>
                         Features
                     </h6>
                     <h1>
