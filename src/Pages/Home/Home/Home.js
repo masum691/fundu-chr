@@ -1,11 +1,12 @@
 import React from 'react';
 import AboutChurches from '../AboutChurches/AboutChurches';
 import Banner from '../Banner/Banner';
+import ConnectUs from '../ConnectUs/ConnectUs';
 import ContactForm from '../ContactForm/ContactForm';
 import Counter from '../Counter/Counter';
-import FreeBees from '../FreeBees/FreeBees';
 import GetInvoled from '../GetInvoled/GetInvoled';
 import PraySection from '../PraySection/PraySection';
+import Quotes from '../Quotes/Quotes';
 import Services from '../Services/Services';
 
 const Home = () => {
@@ -18,7 +19,9 @@ const Home = () => {
             <ContactForm></ContactForm>
             <Services></Services>
             <Counter></Counter>
-            <FreeBees></FreeBees>
+            <Quotes></Quotes>
+            <ConnectUs></ConnectUs>
+            
         </div>
     );
 };

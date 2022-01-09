@@ -1,0 +1,13 @@
+.quotes{
+    width: 45%;
+    margin: 0 auto;
+}
+.quotes .circle{
+    width: 90px;
+}
+.quotes .pman{
+    width: 70px;
+    border-radius: 40px;
+    padding: 4px;
+    box-shadow: 10px 10px 30px rgb(209, 210, 211);
+}

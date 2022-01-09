@@ -9,7 +9,7 @@ const AboutChurches = () => {
         <div className='width-container '>
             <div className='row about-churches'>
                 <div className='col-sm-12 col-lg-6 text-center'>
-                    <div className='char-two'>
+                    <div className='char-two mx-auto'>
                         <img className='img-fluid frame-img' src={frame} alt="" />
                         <img className='second-chr-img' src={carge} alt="" />
                     </div>
