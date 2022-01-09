@@ -1,0 +1,72 @@
+.contact-form{
+    width: 100%;
+    background: linear-gradient(rgba(4, 6, 46, 0.89), rgba(3, 9, 41, 0.89)), url('../../../Images/church.jpg');
+    opacity: 0.8;
+    /* background-color: red; */
+    color: white;
+    padding: 77px 0;
+}
+.form-container input, .sel-relegion{
+    width: 100%;
+    padding: 12px 33px;
+    border: 2px solid lightblue;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+.input-grp{
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+.sel-relegion option{
+    color: black;
+}
+.num-select{
+    bottom: 53px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0);
+    border: 0;
+    color: #FFFFFF;
+    margin-left: 28px;
+}
+.coun-select, .stat-select{
+    bottom: 38px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0);
+    border: 0;
+    color: #FFFFFF;
+    margin-left: 28px;
+}
+.form-container label{
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+.form-container span{
+    color: red;
+}
+.coun-select option, .stat-select option{
+    color: black;
+}
+.num-select option{
+    color: black;
+}
+.two-select-input{
+    width: 100%;
+    display: flex;
+}
+.country-select{
+    margin-right: 8px;
+}
+.country-select , .state-select{
+    width: 50%;
+}
+.contact-form button{
+    border: 0;
+    background-color: red;
+    padding: 12px 42px;
+    border-radius: 40px;
+    margin-top: 23px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 2px;
+}
