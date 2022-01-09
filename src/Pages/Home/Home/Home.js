@@ -2,6 +2,7 @@ import React from 'react';
 import AboutChurches from '../AboutChurches/AboutChurches';
 import Banner from '../Banner/Banner';
 import ContactForm from '../ContactForm/ContactForm';
+import Counter from '../Counter/Counter';
 import GetInvoled from '../GetInvoled/GetInvoled';
 import PraySection from '../PraySection/PraySection';
 import Services from '../Services/Services';
@@ -15,6 +16,7 @@ const Home = () => {
             <PraySection></PraySection>
             <ContactForm></ContactForm>
             <Services></Services>
+            <Counter></Counter>
         </div>
     );
 };

@@ -1,0 +1,14 @@
+.counter-container{
+    background-color: black;
+    color: #FFFFFF;
+}
+.counter-card{
+    width: 100%;
+}
+.counter-card span{
+    font-size: 19px;
+    color: red;
+}
+.single-counter{
+    border-right: 1px solid white;
+}
